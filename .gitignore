@@ -1,0 +1,7 @@
+internal
+src/BarberShop.Api/obj/
+src/BarberShop.Api/bin/
+src/BarberShop.Business/obj/
+src/BarberShop.Business/bin/
+src/BarberShop.Data/obj/
+src/BarberShop.Data/bin/
