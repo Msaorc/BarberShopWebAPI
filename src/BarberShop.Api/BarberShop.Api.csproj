@@ -14,8 +14,4 @@
     <ProjectReference Include="..\BarberShop.Business\BarberShop.Business.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Controllers/" />
-  </ItemGroup>
-
 </Project>
